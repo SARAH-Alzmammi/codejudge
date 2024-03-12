@@ -11,7 +11,7 @@ Automate the assessment of C++ programming assignments by analyzing, compiling, 
 
 ## Setup   🛠️
 
-1. **Clone**: `git clone https://github.com/yourusername/codejudge.git`
+1. **Clone**: `git clone https://github.com/SARAH-Alzmammi/codejudge.git`
 2. **Install Dependencies**: `pip install -r requirements.txt`
 3. **Environment Variable**: `export OPENAI_API_KEY='your_key_here'`
 4. **Launch Notebook**: navigate to lab.ipynb and run the cells.
